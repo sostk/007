@@ -47,3 +47,7 @@ ge007.j.elf
 ge007.u.bin
 ge007.u.elf
 lib/libultra_rom.a
+*.lib
+__pycache__/*
+sm64_save_file.bin
+sm64config.txt
